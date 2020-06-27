@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[lehigh home page](https://www1.lehigh.edu/home)
