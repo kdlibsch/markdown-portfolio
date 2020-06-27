@@ -1,1 +1,1 @@
-[lehigh home page](https://www1.lehigh.edu/home)
+[merced college](https://www.mccd.edu)
